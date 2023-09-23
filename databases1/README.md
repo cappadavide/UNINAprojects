@@ -25,3 +25,7 @@ Another goal was to learn how to create a front-end application in Java linked t
 ### Languages Used
 - Java
 - PLSQL
+
+#### Authors
+- cappadavide
+- LucioDC
