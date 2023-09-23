@@ -17,7 +17,7 @@
  
 | Repository | Language / Technologies used | Description
 |--|--|--|
-| Computer Architecture| PSpice | Low-Level implementation of well-known circuits through PSpice |
+| Computer Architecture| [PSpice](https://github.com/cappadavide/UNINAprojects/tree/main/pspice-project) | Low-Level implementation of well-known circuits through PSpice |
 
 ## Second Year
 
