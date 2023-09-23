@@ -5,6 +5,8 @@
 </p>
 
 > In this repository most of my university projects will be added. Some of them aren't easily runnable. Consider them as a showcase of what I've studied during my studies at UNINA.
+
+*Other projects will be uploaded soon*
 ### Index
 
  - First Year
