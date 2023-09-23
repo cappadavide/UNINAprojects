@@ -1,4 +1,4 @@
-# Algorithms and Data Structure (Lab) Project
+# Algorithms and Data Structure Laboratory Project
 
 ### Description
 Implementations of well-known Algorithms in C
