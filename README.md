@@ -29,7 +29,7 @@
 ## Third Year
 | Repository | Language / Technologies used | Description
 |--|--|--|
-|Operating System Laboratory | C | Design and development of a multiplayer game written in C |
+|[Operating System Laboratory](https://github.com/cappadavide/UNINAprojects/tree/main/lab-OS) | C | Design and development of a multiplayer game written in C |
 |Software Engineering I|Java for Android, Java FX, SQL (PostgreSQL), Adobe XD, Mapbox|Design and development of a TripAdvisor-like Android Application and Desktop Application for Admins|
 
 ## MSc First Year
