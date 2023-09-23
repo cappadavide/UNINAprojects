@@ -24,12 +24,12 @@
 | Repository | Language / Technologies used | Description
 |--|--|--|
 | [Databases I](https://github.com/cappadavide/UNINAprojects/tree/main/databases1) | PLSQL (Oracle Database), Java, Java Swing | Design of a Database for Software Repository Management and Development of a front-end application |
-|Algorithms and Data Structure|C|Implementations of well-known Algorithms in C.
+|Algorithms and Data Structure (Lab)|C|Implementations of well-known Algorithms in C.
 
 ## Third Year
 | Repository | Language / Technologies used | Description
 |--|--|--|
-|Operating System I| C | Design and development of a multiplayer game written in C |
+|Operating System I (Lab)| C | Design and development of a multiplayer game written in C |
 |Software Engineering I|Java for Android, Java FX, SQL (PostgreSQL), Adobe XD, Mapbox|Design and development of a TripAdvisor-like Android Application and Desktop Application for Admins|
 
 ## MSc First Year
