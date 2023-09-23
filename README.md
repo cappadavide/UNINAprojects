@@ -24,7 +24,7 @@
 | Repository | Language / Technologies used | Description
 |--|--|--|
 | [Databases I](https://github.com/cappadavide/UNINAprojects/tree/main/databases1) | PLSQL (Oracle Database), Java, Java Swing | Design of a Database for Software Repository Management and Development of a front-end application |
-|Algorithms and Data Structure (Lab)|C|Implementations of well-known Algorithms in C.
+|[Algorithms and Data Structure (Lab)](https://github.com/cappadavide/UNINAprojects/tree/main/lab-ads)|C|Implementations of well-known Algorithms in C.
 
 ## Third Year
 | Repository | Language / Technologies used | Description
