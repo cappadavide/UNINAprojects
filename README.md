@@ -47,6 +47,6 @@
 | Repository | Language / Technologies used | Description
 |--|--|--|
 |Network Security| Python, Java, Wireshark | Implementation of Client/Server SMTP Protocol and its secured extension SMTPS (RFC 4207).|
-|Computer Vision|Python (Tensorflow, Keras, numpy etc.), MATLAB|Human Pose Estimation with Coupled U-Nets (Tang et al.) |
+|[Computer Vision](https://github.com/cappadavide/coupled-unets-keras)|Python (Tensorflow, Keras, numpy etc.), MATLAB|Human Pose Estimation with Coupled U-Nets (Tang et al.) |
 |Intelligent Web|Java, ALC Language, OWL2, RDF|Development of a Reasoner for Concept Satisfiability given an ALC Knowledge Base.|
 |Secure Systems Design|Java (Spring Framework), Docker, Python, YAML, Bash, Keyclock, Vault, HTML, CSS, JavaScript|Design and development of a NIST-compliant secured Web Application.|
