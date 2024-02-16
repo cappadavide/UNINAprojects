@@ -38,7 +38,7 @@
 
 | Repository | Language / Technologies used | Description
 |--|--|--|
-|Databases II| pgSQL | Design and Optimization of a Database to handle big data  |
+|[Databases II](https://github.com/cappadavide/db2-datawarehouse-prj)| pgSQL | Design and Optimization of a Database to handle big data  |
 |[Parallel Computing](https://github.com/cappadavide/parallel-computing-proj)|C (MPI)|Implementation of some algorithms using parallel computation|
 |[Neural Networks](https://github.com/giusyrux/neural-network-proj)|MATLAB|Low-Level implementation of a shallow neural network and training on MNIST Dataset for digits classification|
 
