@@ -32,7 +32,7 @@
 | Repository | Language / Technologies used | Description
 |--|--|--|
 |[Operating System Laboratory](https://github.com/Gibser/OperatingSystemsLab) | C | Design and development of a multiplayer game written in C |
-|Software Engineering I|Java for Android, Java FX, SQL (PostgreSQL), Adobe XD, Mapbox|Design and development of a TripAdvisor-like Android Application and Desktop Application for Admins|
+|[Software Engineering I](https://github.com/cappadavide/software-eng-prj)|Java for Android, Java FX, SQL (PostgreSQL), Adobe XD, Mapbox|Design and development of a TripAdvisor-like Android Application and Desktop Application for Admins|
 
 ## MSc First Year
 
@@ -48,5 +48,5 @@
 |--|--|--|
 |Network Security| Python, Java, Wireshark | Implementation of Client/Server SMTP Protocol and its secured extension SMTPS (RFC 4207).|
 |[Computer Vision](https://github.com/cappadavide/coupled-unets-keras)|Python (Tensorflow, Keras, numpy etc.), MATLAB|Human Pose Estimation with Coupled U-Nets (Tang et al.) |
-|Intelligent Web|Java, ALC Language, OWL2, RDF|Development of a Reasoner for Concept Satisfiability given an ALC Knowledge Base.|
+|[Intelligent Web](https://github.com/giusyrux/intelligent-web-prj)|Java, ALC Language, OWL2, RDF|Development of a Reasoner for Concept Satisfiability given an ALC Knowledge Base.|
 |Secure Systems Design|Java (Spring Framework), Docker, Python, YAML, Bash, Keyclock, Vault, HTML, CSS, JavaScript|Design and development of a NIST-compliant secured Web Application.|
