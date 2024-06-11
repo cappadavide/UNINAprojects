@@ -9,11 +9,13 @@
 *Other projects will be uploaded soon*
 ### Index
 
- - First Year
- - Second Year
- - Third Year
- - MSc First Year
- - MSc Second Year
+ - [First Year](#first-year)
+ - [Second Year](#second-year)
+ - [Third Year](#third-year)
+ - [Bachelor's Thesis Project](#bd-thesis-project)
+ - [MSc First Year](#msc-first-year)
+ - [MSc Second Year](#msc-second-year)
+ - [Masters's Thesis Project](#ms-thesis-project)
  
  ## First Year
  
@@ -34,6 +36,11 @@
 |[Operating System Laboratory](https://github.com/Gibser/OperatingSystemsLab) | C | Design and development of a multiplayer game written in C |
 |[Software Engineering I](https://github.com/cappadavide/software-eng-prj)|Java for Android, Java FX, SQL (PostgreSQL), Adobe XD, Mapbox|Design and development of a TripAdvisor-like Android Application and Desktop Application for Admins|
 
+## BD Thesis Project 
+| Name | Language / Technologies used | Description
+|--|--|--|
+|Bones-ADAMO| Python, Tensorflow2 | A comparative analysis of Deep Neural Networks for bone tissue segmentation in CT Images |
+
 ## MSc First Year
 
 | Repository | Language / Technologies used | Description
@@ -50,3 +57,9 @@
 |[Computer Vision](https://github.com/cappadavide/coupled-unets-keras)|Python (Tensorflow, Keras, numpy etc.), MATLAB|Human Pose Estimation with Coupled U-Nets (Tang et al.) |
 |[Intelligent Web](https://github.com/giusyrux/intelligent-web-prj)|Java, ALC Language, OWL2, RDF|Development of a Reasoner for Concept Satisfiability given an ALC Knowledge Base.|
 |Secure Systems Design|Java (Spring Framework), Docker, Python, YAML, Bash, Keyclock, Vault, HTML, CSS, JavaScript|Design and development of a NIST-compliant secured Web Application.|
+
+## MS Thesis Project 
+| Name | Language / Technologies used | Description
+|--|--|--|
+|WSI-Aug| Python, Tensorflow2, QuPath, Openslide | Synthesis of histological images for Tumour Classification |
+
